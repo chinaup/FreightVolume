@@ -41,5 +41,5 @@
 可视化展示界面为由Eclipse开发的Web页面，使用Echarts框架将保存在mysql数据库中的分析结果通过各种图表进行可视化展示。运行该系统，打开http://localhost:8080/Echart/ 链接即可看到可视化的界面，具体图表如下。
 
 1、A站总收发货量对比
-
-![]https://github.com/chinaup/FreightVolumeAnalyze/blob/master/picture/%E5%9B%BE%E7%89%871.png
+![Image text]
+(https://github.com/chinaup/FreightVolumeAnalyze/blob/master/picture/%E5%9B%BE%E7%89%871.png)
