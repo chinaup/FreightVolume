@@ -43,3 +43,4 @@
 1、A站总收发货量对比
 
 ![Image text](https://github.com/chinaup/FreightVolumeAnalyze/blob/master/picture/%E5%9B%BE%E7%89%871.png)
+![Image text](https://github.com/chinaup/FreightVolumeAnalyze/blob/master/picture/%E5%9B%BE%E7%89%872.png)
