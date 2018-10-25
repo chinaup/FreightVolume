@@ -43,11 +43,10 @@
 1、A站总收发货量对比
 
 ![Image text](https://github.com/chinaup/FreightVolumeAnalyze/blob/master/picture/%E5%9B%BE%E7%89%871.png)
-![Image text](https://github.com/chinaup/FreightVolumeAnalyze/blob/master/picture/%E5%9B%BE%E7%89%872.png)
 
 2、A站每月总货运量
 
-![Image text](https://github.com/chinaup/FreightVolumeAnalyze/blob/master/picture/%E5%9B%BE%E7%89%873.png)
+![Image text](https://github.com/chinaup/FreightVolumeAnalyze/blob/master/picture/%E5%9B%BE%E7%89%872.png)
 
 3、A站每月总收货量
 
@@ -81,13 +80,65 @@
 
 ![Image text](https://github.com/chinaup/FreightVolumeAnalyze/blob/master/picture/%E5%9B%BE%E7%89%8710.png)
 
+11、A站每类货物收货量比例
 
+![Image text](https://github.com/chinaup/FreightVolumeAnalyze/blob/master/picture/%E5%9B%BE%E7%89%8711.png)
 
+12、A站每类货物发货量
 
+![Image text](https://github.com/chinaup/FreightVolumeAnalyze/blob/master/picture/%E5%9B%BE%E7%89%8712.png)
 
+13、A站每类货物发货量比例
 
+![Image text](https://github.com/chinaup/FreightVolumeAnalyze/blob/master/picture/%E5%9B%BE%E7%89%8713.png)
 
+14、A站每种运输方式货运量
 
+![Image text](https://github.com/chinaup/FreightVolumeAnalyze/blob/master/picture/%E5%9B%BE%E7%89%8714.png)
+
+15、A站每种运输方式货运比例
+
+![Image text](https://github.com/chinaup/FreightVolumeAnalyze/blob/master/picture/%E5%9B%BE%E7%89%8715.png)
+
+16、A站每种运输方式收货量
+
+![Image text](https://github.com/chinaup/FreightVolumeAnalyze/blob/master/picture/%E5%9B%BE%E7%89%8716.png)
+
+17、A站每种运输方式收货量比例
+
+![Image text](https://github.com/chinaup/FreightVolumeAnalyze/blob/master/picture/%E5%9B%BE%E7%89%8717.png)
+
+18、A站每种运输方式发货量
+
+![Image text](https://github.com/chinaup/FreightVolumeAnalyze/blob/master/picture/%E5%9B%BE%E7%89%8718.png)
+
+19、A站每种运输方式发货量比例
+
+![Image text](https://github.com/chinaup/FreightVolumeAnalyze/blob/master/picture/%E5%9B%BE%E7%89%8719.png)
+
+20、Top10区域货运量
+
+![Image text](https://github.com/chinaup/FreightVolumeAnalyze/blob/master/picture/%E5%9B%BE%E7%89%8720.png)
+
+21、Top10区域收货量
+
+![Image text](https://github.com/chinaup/FreightVolumeAnalyze/blob/master/picture/%E5%9B%BE%E7%89%8721.png)
+
+22、Top10区域发货量
+
+![Image text](https://github.com/chinaup/FreightVolumeAnalyze/blob/master/picture/%E5%9B%BE%E7%89%8722.png)
+
+23、区域货运量热力图
+
+![Image text](https://github.com/chinaup/FreightVolumeAnalyze/blob/master/picture/%E5%9B%BE%E7%89%8723.png)
+
+24、区域收货量热力图
+
+![Image text](https://github.com/chinaup/FreightVolumeAnalyze/blob/master/picture/%E5%9B%BE%E7%89%8724.png)
+
+25、区域发货量热力图
+
+![Image text](https://github.com/chinaup/FreightVolumeAnalyze/blob/master/picture/%E5%9B%BE%E7%89%8725.png)
 
 
 
