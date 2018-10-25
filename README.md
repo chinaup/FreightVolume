@@ -44,3 +44,63 @@
 
 ![Image text](https://github.com/chinaup/FreightVolumeAnalyze/blob/master/picture/%E5%9B%BE%E7%89%871.png)
 ![Image text](https://github.com/chinaup/FreightVolumeAnalyze/blob/master/picture/%E5%9B%BE%E7%89%872.png)
+
+2、A站每月总货运量
+
+![Image text](https://github.com/chinaup/FreightVolumeAnalyze/blob/master/picture/%E5%9B%BE%E7%89%873.png)
+
+3、A站每月总收货量
+
+![Image text](https://github.com/chinaup/FreightVolumeAnalyze/blob/master/picture/%E5%9B%BE%E7%89%873.png)
+
+4、A站每月总发货量
+
+![Image text](https://github.com/chinaup/FreightVolumeAnalyze/blob/master/picture/%E5%9B%BE%E7%89%874.png)
+
+5、A站每天总货运量
+
+![Image text](https://github.com/chinaup/FreightVolumeAnalyze/blob/master/picture/%E5%9B%BE%E7%89%875.png)
+
+6、A站每天总收货量
+
+![Image text](https://github.com/chinaup/FreightVolumeAnalyze/blob/master/picture/%E5%9B%BE%E7%89%876.png)
+
+7、A站每天总发货量
+
+![Image text](https://github.com/chinaup/FreightVolumeAnalyze/blob/master/picture/%E5%9B%BE%E7%89%877.png)
+
+8、A站每类货物货运量
+
+![Image text](https://github.com/chinaup/FreightVolumeAnalyze/blob/master/picture/%E5%9B%BE%E7%89%878.png)
+
+9、A站每类货物货运比例
+
+![Image text](https://github.com/chinaup/FreightVolumeAnalyze/blob/master/picture/%E5%9B%BE%E7%89%879.png)
+
+10、A站每类货物收货量
+
+![Image text](https://github.com/chinaup/FreightVolumeAnalyze/blob/master/picture/%E5%9B%BE%E7%89%8710.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
