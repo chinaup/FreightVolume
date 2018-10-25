@@ -42,4 +42,4 @@
 
 1、A站总收发货量对比
 
-![Image text](https://github.com/chinaup/sparkjob/blob/master/sparkjob/picture/%E5%B7%A5%E4%BD%9C%E6%95%B0%E7%9B%AE%E6%9F%B1%E7%8A%B6%E5%9B%BE.png)
+![Image text](https://github.com/chinaup/FreightVolumeAnalyze/blob/master/picture/%E5%9B%BE%E7%89%871.png)
